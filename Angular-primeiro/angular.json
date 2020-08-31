@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-primeiro"
+    }
+  },
+  "defaultProject": "Angular-primeiro",
+  "cli": {
+    "analytics": "3d1808fe-d5b0-4dc7-ade6-6e5c1caf24b1"
+  }
 }
