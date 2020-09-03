@@ -1,12 +1,13 @@
-import { HomeComponent } from './../../../ANGULAR-MASTER/packages/core/schematics/test/static_queries_migration_template_spec';
+import { HomeComponent } from './views/home/home.component';
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
+
 
 const routes: Routes = [
 
           {
             path: '',
-            component: HomeComponent
+            component: HomeComponent,
           }
 ];
 
